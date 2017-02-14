@@ -1,2 +1,4 @@
 node_modules
 /build
+/guide.pdf
+/testdata/testDom.js

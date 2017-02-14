@@ -1,0 +1,26 @@
+@font-face {
+  font-family: 'HeadlandOne';
+  src: url('../fonts/HeadlandOne-Regular.ttf'); /* IE9 Compat Modes */
+}
+@font-face {
+  font-family: 'Sintony';
+  src: url('../fonts/Sintony-Regular.ttf'); /* IE9 Compat Modes */
+}
+@font-face {
+  font-family: 'Sintony';
+  font-weight: bold;
+  src: url('../fonts/Sintony-Bold.ttf'); /* IE9 Compat Modes */
+}
+@font-face {
+  font-family: 'Cantata One';
+  src: url('../fonts/CantataOne-Regular.ttf'); /* IE9 Compat Modes */
+}
+@font-face {
+  font-family: 'FontAwesome';
+  src: url('../fonts/fontawesome-webfont.ttf'); /* IE9 Compat Modes */
+  src: url('../fonts/fontawesome-webfont.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('../fonts/fontawesome-webfont.woff2') format('woff2'), /* Super Modern Browsers */
+       url('../fonts/fontawesome-webfont.woff') format('woff'), /* Pretty Modern Browsers */
+       url('../fonts/fontawesome-webfont.ttf')  format('truetype'), /* Safari, Android, iOS */
+       url('../fonts/fontawesome-webfont.svg') format('svg'); /* Legacy iOS */
+}
